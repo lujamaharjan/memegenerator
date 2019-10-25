@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+}
+
+#imgg {
+  filter: brightness(30%);
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.caption1 {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  width: 100%;
+}
+.caption2 {
+  position: absolute;
+  top: 80%;
+  left: 0;
+  width: 100%;
+}
